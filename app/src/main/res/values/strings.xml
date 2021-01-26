@@ -10,4 +10,7 @@ I’ve seen several versions of this Lorem ipsum text on the Internet, with vari
 See also our other version Lorem Ipsum Numbered Copyfitting Text, with text that\'s numbered every 50 characters, up to 1,000 characters.
 See also our new Lorem Ipsum Text Generator to generate a specific number of words, characters, or paragraphs.
 If you would like to copy this text, take your pick of which is easier for you from the formats below.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="close">Close</string>
 </resources>
